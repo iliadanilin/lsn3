@@ -1,0 +1,48 @@
+h1{
+    color: darkmagenta;
+}
+h2{
+    color: deepskyblue;
+}
+.text{
+    color: lawngreen;
+}
+p{
+    color: darkblue;
+}
+.name{
+    color: darkgoldenrod;
+}
+#wow{
+    color: firebrick;
+}
+#we{
+    color: hotpink;
+}
+#zero{
+    color: orange
+    ;
+}
+*{
+    margin: 0;
+    padding: 0;
+    bottom: 0;
+}
+
+    h1
+    h2
+    h3
+    h4
+    h5
+    h6{
+        font-weight: inherit;
+        font-size: inherit;
+    }
+    a,
+    a :visited{
+        text-decoration: none;
+    }
+    a :hover{
+        text-decoration: none;
+    }
+
